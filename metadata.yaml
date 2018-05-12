@@ -1,0 +1,32 @@
+_repo: Meister-Autoroder-Die-Geschichten-vom-versunkenen-Garten_35603
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raabe, Wilhelm
+    aliases:
+    - Raabe, Wilhelm Karl
+    - Corvinus, Jacob
+    - Corvinus, Jakob
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '8890'
+    url: http://www.gutenberg.org/2009/agents/8890
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Raabe
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35603'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Meister Autor; oder, die Geschichten vom versunkenen Garten
+url: http://www.gutenberg.org/ebooks/35603
